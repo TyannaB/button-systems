@@ -1,0 +1,23 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  font-family: sans-serif;
+}
+
+.btn {
+  background-color: limegreen;
+  border-color: limegreen;
+}
+
+.btn-light {
+background-color: transparent;
+}
+
+.btn-ghost {
+  background-color: lightgreen;
+  border-color: lightgreen;
+}
